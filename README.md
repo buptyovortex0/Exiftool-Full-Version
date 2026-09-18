@@ -240,4 +240,4 @@ This repository serves as the official landing page for ExifTool. The software i
 **Get the most recent version of ExifTool today!**
 
 ---
-**Last updated:** 2026-09-18 18:03:34 UTC
+**Last updated:** 2026-09-18 21:24:42 UTC
